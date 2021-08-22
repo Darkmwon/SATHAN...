@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="Pikachu-407x400.png" width="200" height="200"/>
+  <img border-radius: 15px src="IMG-20210816-WA0295.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SATHAN..." src="https://img.shields.io/badge/SATHAN...-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Darkmwon"><img title="Author" src="https://img.shields.io/badge/Author-Darkmwon/SATHAN...?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumthodi</a> to make it public
+Project created by <a href="https://github.com/Darkmwon">Darkmwon</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumth
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/ameer-kallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Darkmwon/SATHAN...">
+    <img src="https://img.shields.io/github/repo-size/Darkmwon/SATHAN...?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Darkmwon/followers"><img title="Followers" src="https://img.shields.io/github/followers/Darkmwon?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Darkmwon/SATHAN.../stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Darkmwon/SATHAN...?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Darkmwon/SATHAN.../network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darkmwon/SATHAN...?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Darkmwon/SATHAN.../watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Darkmwon/SATHAN...?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -40,9 +40,9 @@ Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumth
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=nightowl" alt="ameer-kallumthodi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkmwon&show_icons=true&theme=nightowl" alt="Darkmwon" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=nightowl" alt="ameer-kallumthodi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkmwon&theme=nightowl" alt="Darkmwon" /></p>
 </details> </div>
 
 
@@ -55,7 +55,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click Pikachu logo to Join Support Group 2👇
+Click SATHAN... logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -68,7 +68,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkmwon/SATHAN....git)
      </div>
 <br>
 <br >
@@ -83,8 +83,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Darkmwon/SATHAN...
+$ cd SATHAN...
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +93,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Darkmwon/SATHAN...
+$ cd SATHAN...
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -114,9 +114,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![Darkmwon](https://github.com/Darkmwon.png?size=100)](https://github.com/Darkmwon) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[Darkmwon](https://github.com/Darkmwon)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
@@ -127,3 +127,4 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
